@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KvadratnaJednadzba", "KvadratnaJednadzba.csproj", "{10C89ED7-DA7C-40B1-AEAE-102E8BD7DB0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gui", "..\Gui\Gui.csproj", "{3322DBC7-F2D8-46D8-86DB-B143C3E2A3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C89ED7-DA7C-40B1-AEAE-102E8BD7DB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C89ED7-DA7C-40B1-AEAE-102E8BD7DB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C89ED7-DA7C-40B1-AEAE-102E8BD7DB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C89ED7-DA7C-40B1-AEAE-102E8BD7DB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3322DBC7-F2D8-46D8-86DB-B143C3E2A3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3322DBC7-F2D8-46D8-86DB-B143C3E2A3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3322DBC7-F2D8-46D8-86DB-B143C3E2A3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3322DBC7-F2D8-46D8-86DB-B143C3E2A3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C5132D9-6F3B-4E05-81AC-5A75C221A72E}
+	EndGlobalSection
+EndGlobal
